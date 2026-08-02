@@ -1,3 +1,8 @@
+> ⚠️ **ARCHIVED** 
+> 
+> This project is no longer maintained and has been archived for historical reference. 
+> **For the latest version, please visit:** [aegis-shell/aegis](https://github.com/aegis-shell/aegis)
+
 # Aegis
 
 Aegis is a Wayland compositor and desktop shell for Linux. It combines a
